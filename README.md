@@ -6,6 +6,11 @@
 
 <h2 align="center"> A comprehensive collection of resources for various domains under Pausch Lab. </h2>  
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 <h2 align="center"> YouTube channels that talk about Game Design. </h2>  
 This does NOT include tutorial channels, LetsPlayers, programming, how to market your game stuff etc. 
