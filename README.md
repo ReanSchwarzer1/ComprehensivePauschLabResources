@@ -8,7 +8,6 @@
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/ReanSchwarzer1/ComprehensivePauschLabResources/issues), or fork this repository and submit a pull request.
 
-
 <h2 align="center"> YouTube channels that talk about Game Design. </h2>  
 This does NOT include tutorial channels, LetsPlayers, programming, how to market your game stuff etc. 
 
