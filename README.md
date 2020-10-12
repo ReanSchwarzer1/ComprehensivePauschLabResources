@@ -656,7 +656,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
 
 
-## Credits to Github User @Anirban166
+## Credits to Github User @Anirban166 for the open source list
 
 
 
