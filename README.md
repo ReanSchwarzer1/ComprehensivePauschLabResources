@@ -2,12 +2,15 @@
 <html>
 <body>
 <h1 align="center"> Comprehensive Pausch Lab Resources </h1> 
-  
+    
+<p align="center">
+<img src="https://github.com/NextTechLab/ComprehensivePauschLabResources/blob/main/Images/GD.jpg">
+</p> 
+    
 <h2 align="center"> A comprehensive collection of resources for various domains under Pausch Lab. </h2>  
 <h2 align="center"> Contributing </h2>  
 
 If you'd like to add a repository to the list, please [create an Issue](https://github.com/ReanSchwarzer1/ComprehensivePauschLabResources/issues), or fork this repository and submit a pull request.
-
 
 <h2 align="center"> YouTube channels that talk about Game Design. </h2>  
 This does NOT include tutorial channels, LetsPlayers, programming, how to market your game stuff etc. 
