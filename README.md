@@ -7,9 +7,8 @@
 <h2 align="center"> A comprehensive collection of resources for various domains under Pausch Lab. </h2>  
 
 
-<h2 align="center"> YouTube channels that talk about Game Desgign. </h2>  
-This does NOT include tutorial channels, LetsPlayers, programming, how to market your game stuff etc. I kept the list to mostly stuff about theory on what makes a good game. Enjoy.
-
+<h2 align="center"> YouTube channels that talk about Game Design. </h2>  
+This does NOT include tutorial channels, LetsPlayers, programming, how to market your game stuff etc. 
 
 8-bit Music Theory https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw
 
