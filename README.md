@@ -2,8 +2,9 @@
 <html>
 <body>
 <h1 align="center"> Comprehensive Pausch Lab Resources </h1> 
+    
 <p align="center">
-<img src="  https://github.com/NextTechLab/ComprehensivePauschLabResources/blob/main/Images/GD.jpg">
+<img src="https://github.com/NextTechLab/ComprehensivePauschLabResources/blob/main/Images/GD.jpg">
 </p> 
     
 <h2 align="center"> A comprehensive collection of resources for various domains under Pausch Lab. </h2>  
