@@ -23,6 +23,18 @@ Dribbble | https://dribbble.com/tags/ux
 Awwwards | https://www.awwwards.com/
 Panda | https://usepanda.com/app/#/
 
+<h2 align="center"> The Best UX-Focused Blogs and Websites. </h2>  
+
+Website Name | Link
+------------ | -------------
+UI Movement|https://uimovement.com/
+UX Mag|https://uxmag.com/
+UX Booth|https://www.uxbooth.com/
+UX Movement|https://uxmovement.com/
+UXDesign.cc|https://uxdesign.cc/
+UX Pin|https://www.uxpin.com/studio/blog/
+Boxes and Arrows|https://boxesandarrows.com/
+
     
     
     
