@@ -10,10 +10,19 @@ If you'd like to add a repository to the list, please [create an Issue](https://
 <p align="center">
 <img src="https://github.com/ReanSchwarzer1/ComprehensivePauschLabResources/blob/main/Images/uiux.png">
 </p> 
+<h2 align="center"> The Best UX/UI Inspiration Aggregator Sites. </h2>  
 
+Website Name | Link
+------------ | -------------
+SiteInspire | https://www.siteinspire.com/
+Web Design Inspiration | https://www.webdesign-inspiration.com/
+The Best Designs | https://www.thebestdesigns.com/
+Niice | https://niice.co/search/ux
+Behance | https://www.behance.net/search?field=132
+Dribbble | https://dribbble.com/tags/ux
+Awwwards | https://www.awwwards.com/
+Panda | https://usepanda.com/app/#/
 
-
-    
     
     
     
